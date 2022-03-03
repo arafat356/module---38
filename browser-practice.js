@@ -12,4 +12,6 @@ what is even loop in javascript how does it work
 
 make a simple web site with two imput fields and a button . prouct name, product er price . by clicking on ther
 buton product will be added to the local storage , you should be able to add multiple. display product 
-on the website if they exists display on web site which is you have writen*/
+on the website if they exists display on web site which is you have writen
+
+must be do this stack overflow create an account minimum spand 30 mt*/
